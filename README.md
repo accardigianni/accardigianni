@@ -4,7 +4,7 @@
 
 <h2>developpeur junior en quête de savoir pourquoi on nous dit 42.</h2>
 
-<font size = "2">Actuellement en formation chez ADA TECH SCHOOL </font>
+<font size = "10">Actuellement en formation chez ADA TECH SCHOOL </font>
 
 Contact : gianniac44@gmail.com
 
