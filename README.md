@@ -8,11 +8,11 @@ Contact : gianniac44@gmail.com
 
 Projets réalisés :
 
-Pico 8
+<a href="https://github.com/accardigianni/projet-collectif---pico8-les-mousquetaires">Pico-8</a>
 
-Data-visualisation
+<a href="https://github.com/accardigianni/projet-collectif---dataviz-api-il-va-faire-tout-noir">Data-visualisation
 
-Extension navigateur
+<a href="https://github.com/accardigianni/projet-collectif---extension-chrome-don-t-be-a-crevette">Extension navigateur
 
 Reseaux: 
 
