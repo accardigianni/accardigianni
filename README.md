@@ -1,6 +1,8 @@
 # ACCARDI Gianni
 
-developpeur junior en quête de savoir pourquoi on nous dit 42.
+<h1>Etudiant developpeur concepteur d'application</h1> 
+
+<h2>developpeur junior en quête de savoir pourquoi on nous dit 42.</h2>
 
 Actuellement en formation chez ADA TECH SCHOOL
 
