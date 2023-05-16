@@ -4,7 +4,7 @@
 
 <h2>developpeur junior en quête de savoir pourquoi on nous dit 42.</h2>
 
-Actuellement en formation chez ADA TECH SCHOOL
+<font size = "2">Actuellement en formation chez ADA TECH SCHOOL </font>
 
 Contact : gianniac44@gmail.com
 
@@ -16,7 +16,7 @@ Projets réalisés :
 
 <a href="https://github.com/accardigianni/projet-collectif---extension-chrome-don-t-be-a-crevette">Extension navigateur
 
-Reseaux: 
+Reseaux sociaux: 
 
 <a href="https://www.linkedin.com/in/gianni-accardi-143112270/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gianni accardi" height="30" width="40" style="max-width: 100%;"></a>
 
