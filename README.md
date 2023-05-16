@@ -1,16 +1,29 @@
-### Hi there 👋
+# ACCARDI Gianni
 
-<!--
-**accardigianni/accardigianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+developpeur junior en quête de savoir pourquoi on nous dit 42.
 
-Here are some ideas to get you started:
+Actuellement en formation chez ADA TECH SCHOOL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact : gianniac44@gmail.com
+
+Projets réalisés :
+
+Pico 8
+
+Data-visualisation
+
+Extension navigateur
+
+Reseaux: 
+
+<a href="https://www.linkedin.com/in/fran%C3%A7ois-diouf-5172ab128/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gianni accardi" height="30" width="40" style="max-width: 100%;"></a>
+
+Langages et outils:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="réagir" width="40" height="40" style="max-width: 100%;">
