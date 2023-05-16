@@ -24,5 +24,6 @@ Langages et outils:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="réagir" width="40" height="40" style="max-width: 100%;">
  
- Question existenciel :
+ 
+ Question existencielle :
  <h2>Pourquoi on nous dit 42.</h2>
