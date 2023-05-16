@@ -28,4 +28,4 @@ Langages et outils:
  
  
  Question existencielle :
- <h2>Pourquoi on nous dit 42.</h2>
+ <h2>Pourquoi 42?</h2>
