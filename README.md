@@ -27,6 +27,3 @@ Langages et outils:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="réagir" width="40" height="40" style="max-width: 100%;">
  
  ![accardigianni's GitHub stats](https://github-readme-stats.vercel.app/api?username=accardigianni)
-
- Question existencielle :
- <h2>Pourquoi 42?</h2>
