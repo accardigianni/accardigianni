@@ -13,7 +13,9 @@ Projets réalisés :
 
 <a href="https://github.com/accardigianni/projet-collectif---dataviz-api-il-va-faire-tout-noir">Data-visualisation
  
-<a href="https://github.com/accardigianni/projet-collectif---extension-chrome-don-t-be-a-crevette">Extension navigateur
+<a href="https://github.com/accardigianni/back-endProjetAntikea">Site e-commerce (backend)
+
+<a href="https://github.com/accardigianni/front-endProjetAntikea">Site e-commerce (frontend)
 
 Reseaux sociaux: 
 
