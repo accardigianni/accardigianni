@@ -12,6 +12,8 @@ Projets réalisés :
 <a href="https://github.com/accardigianni/projet-collectif---pico8-les-mousquetaires">Pico-8</a>
 
 <a href="https://github.com/accardigianni/projet-collectif---dataviz-api-il-va-faire-tout-noir">Data-visualisation
+
+<a href="https://github.com/accardigianni/projet-collectif---reseau-social-php-game4ever"> Site type "réseau social"
  
 <a href="https://github.com/accardigianni/back-endProjetAntikea">Site e-commerce (backend)
 
@@ -19,7 +21,6 @@ Projets réalisés :
 
 Reseaux sociaux: 
 
- <p>cliquer sur la miniature pour vous rendre sur mon profil linkedin</p>
  <p>
 <a href="https://www.linkedin.com/in/gianni-accardi/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gianni accardi" height="30" width="40" style="max-width: 100%;"></a>
  </p>
