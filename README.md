@@ -37,7 +37,7 @@ Langages utilisés:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="réagir" width="40" height="40" style="max-width: 100%;">
 </div> 
 <div class = "prog lang">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="réagir" width="40" height="40" style="max-width: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"alt="réagir" width="40" height="40" style="max-width: 100%;">
 </div>
 
 
