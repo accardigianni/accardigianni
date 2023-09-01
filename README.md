@@ -46,7 +46,7 @@ Framework utilisés:
 <div class = "prog lang">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"alt="angular" width="40" height="40" style="max-width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40" style="max-width: 100%;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"alt="django" width="40" height="40" style="max-width: 100%;">
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"alt="django" width="40" height="40" style="max-width: 100%;"> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"alt="laravel" width="40" height="40" style="max-width: 100%;">
  
 </div>
@@ -62,8 +62,8 @@ Database utilisés :
 Servers Tools :
 <div class= "tools">
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"alt="nodejs" width="40" height="40" style="max-width: 100%;">
- <img src="https://www.pngitem.com/middle/hxJoJom_insomnia-rest-client-icon-hd-png-download/"alt="insomnia" width="40" height="40" style="max-width: 100%;">
- <img src="https://www.hiclipart.com/free-transparent-background-png-clipart-qjvnj"alt="mamp" width="40" height="40" style="max-width: 100%;">
+<!--  <img src="https://www.pngitem.com/middle/hxJoJom_insomnia-rest-client-icon-hd-png-download/"alt="insomnia" width="40" height="40" style="max-width: 100%;"> -->
+<!--  <img src="https://www.hiclipart.com/free-transparent-background-png-clipart-qjvnj"alt="mamp" width="40" height="40" style="max-width: 100%;"> -->
 </div>
 
 
