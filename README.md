@@ -12,7 +12,7 @@
 
 Projets réalisés :
 
-<a href="https://github.com/accardigianni/projet-collectif---pico8-les-mousquetaires">Pico-8</a>
+[PICO-8](https://github.com/accardigianni/projet-collectif---pico8-les-mousquetaires")
 
 <a href="https://github.com/accardigianni/projet-collectif---dataviz-api-il-va-faire-tout-noir">Data-visualisation
 
