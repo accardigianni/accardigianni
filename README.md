@@ -1,6 +1,6 @@
 # ACCARDI Gianni
 
-<h1 align = "center"> Salut 👋, je suis Gianni Accardi</h1>
+<h1 align="center"> Salut 👋, je suis Gianni Accardi</h1>
 
 <h3>Je suis étudiant Concepteur Développeur web, et je souhaites devenir développeur Web Full Stack. </h3> 
 
@@ -13,6 +13,8 @@
 Projets réalisés :
 
 <a href="https://github.com/accardigianni/projet-collectif---pico8-les-mousquetaires">Pico-8</a>
+
+[PICO-8]("https://github.com/accardigianni/projet-collectif---pico8-les-mousquetaires")
 
 <a href="https://github.com/accardigianni/projet-collectif---dataviz-api-il-va-faire-tout-noir">Data-visualisation
 
