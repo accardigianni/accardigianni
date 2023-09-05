@@ -1,11 +1,14 @@
 # ACCARDI Gianni
 
-<h1>Etudiant Concepteur Développeur web</h1> 
+<h1 align = "center"> Salut 👋, je suis Gianni Accardi</h1>
+
+<h3>Je suis étudiant Concepteur Développeur web, et je souhaites devenir développeur Web Full Stack. </h3> 
 
 <em>Actuellement en formation chez <a href="https://adatechschool.fr/programme/?hsa_acc=2021439149&hsa_cam=18699885026&hsa_grp=151264409988&hsa_ad=630315776814&hsa_src=g&hsa_tgt=kwd-298533358711&hsa_kw=ada%20school&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad=1" rel="nofollow1">ADA TECH SCHOOL</a></em>
 
+- 📫 Voilà comment joindre : gianniac44@gmail.com
 
-Contact : gianniac44@gmail.com
+- 🔭 Je travaille actuellement sur un projet avec le Framework Angular et TypeScript
 
 Projets réalisés :
 
