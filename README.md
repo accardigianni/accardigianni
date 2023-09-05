@@ -12,9 +12,9 @@ Projets réalisés :
 
 [Pico-8](https://github.com/accardigianni/projet-collectif---pico8-les-mousquetaires")
 
-<a href="https://github.com/accardigianni/projet-collectif---dataviz-api-il-va-faire-tout-noir">Data-visualisation
+<a href="https://github.com/accardigianni/projet-collectif---dataviz-api-il-va-faire-tout-noir">Visualisation des données de la TAN
 
-<a href="https://github.com/accardigianni/projet-collectif---reseau-social-php-game4ever"> Site type "réseau social"
+<a href="https://github.com/accardigianni/projet-collectif---reseau-social-php-game4ever"> Site de réseau social type "Facebook"
  
 <a href="https://github.com/accardigianni/back-endProjetAntikea">Site e-commerce (backend)
 
