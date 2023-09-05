@@ -1,5 +1,3 @@
-# ACCARDI Gianni
-
 <h1 align="center"> Salut 👋, je suis Gianni Accardi</h1>
 
 <h3>Je suis étudiant Concepteur Développeur web, et je souhaites devenir développeur Web Full Stack. </h3> 
