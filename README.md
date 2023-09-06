@@ -10,7 +10,7 @@
 
 Projets réalisés :
 
-[Pico-8](https://github.com/accardigianni/projet-collectif---pico8-les-mousquetaires")
+[Jeu vidéo rétro](https://github.com/accardigianni/projet-collectif---pico8-les-mousquetaires")
 
 <a href="https://github.com/accardigianni/projet-collectif---dataviz-api-il-va-faire-tout-noir">Visualisation des données de la TAN
 
