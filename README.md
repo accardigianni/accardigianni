@@ -20,6 +20,8 @@ Projets réalisés :
 
 <a href="https://github.com/accardigianni/front-endProjetAntikea">Site e-commerce (frontend)
 
+<a href="https://github.com/accardigianni/projet-portfolio">Mon portfolio
+
 [Jeu de morpion](https://github.com/accardigianni/projets-morpions)
 
 Réseau social: 
