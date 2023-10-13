@@ -24,6 +24,8 @@ Projets réalisés :
 
 [Jeu de morpion](https://github.com/accardigianni/projets-morpions)
 
+<a href ="https://github.com/accardigianni/Puissance-4-3D">Puissance 4
+
 Réseau social: 
 
  <p>
