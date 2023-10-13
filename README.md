@@ -6,7 +6,7 @@
 
 - 📫 Voilà comment joindre : gianniac44@gmail.com
 
-- 🔭 Je travaille actuellement sur un projet <a href ="https://github.com/accardigianni/Puissance-4-3D"> Puissance 4 en tuilisant JAV et Spring et la création d'un [Portfolio](https://github.com/accardigianni/projet-portfolio) en React
+- 🔭 Je travaille actuellement sur un projet <a href ="https://github.com/accardigianni/Puissance-4-3D"> Puissance 4 </a> en utilisant JAV et Spring et la création d'un [Portfolio](https://github.com/accardigianni/projet-portfolio) en React
 
 Projets réalisés :
 
